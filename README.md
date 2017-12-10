@@ -8,6 +8,12 @@
 * Facebook: [https://www.facebook.com/nfn.designpartnership](https://www.facebook.com/nfn.designpartnership)
 * Instagram: [https://instagram.com/nfndp](https://instagram.com/nfndp)
     
+### Features:
+* Splashscreen
+* Intro pages
+* Dashboard
+* Image slider
+
 ### Properties:
 * Student: **Dwi Fahni Denni**
 * Email: <dfdenni@nfndp.com>

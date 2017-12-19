@@ -4,7 +4,7 @@
 ### Case Study:
 * NFN D+P (Design &amp; Partnership)
 * Email: <support@nfndp.com>
-* Website: [http://www.nfndp.dom](http://www.nfndp.dom)
+* Website: [http://www.nfndp.com](http://www.nfndp.com)
 * Facebook: [https://www.facebook.com/nfn.designpartnership](https://www.facebook.com/nfn.designpartnership)
 * Instagram: [https://instagram.com/nfndp](https://instagram.com/nfndp)
     
